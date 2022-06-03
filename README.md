@@ -1,5 +1,5 @@
 ### Hey, I'm Cristi Petrusan 
-I'm 20 years old and I am looking forward to improve my programming skills :D
+I'm 21 years old and I am looking forward to improve my programming skills :D
 
 ### What I'm focusing on
 Currently, I focus on learning Python and Linux
